@@ -1,0 +1,28 @@
+Hello
+This git command file
+
+=>  git clone git@gitlab.indianic.com:magento/test-for-new-employee.git
+And enter password : 
+
+-> git pull => to take update
+-> git push -u origin master => to add new files
+-> git commit filename => to commit files
+-> git push => to add in bitbucket final command
+
+
+git pull => to get latest code from repository
+
+git add . => to add recursive
+
+git commit -m "Add message here" => to commit files
+
+git commit -a "Add message here" => to add and commit both with same command
+
+git rm -r => recursive remove files and folder
+
+git status -s => to see with updates of added new files
+
+git status => To see uncommitted and change files in local repository with long output
+
+git diff =>  will show you what those changes actually are, line by line.
+
